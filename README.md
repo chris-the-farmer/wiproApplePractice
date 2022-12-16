@@ -83,4 +83,5 @@ Additional Resources:
 https://github.com/smashism/awesome-macadmin-tools
 
 Community notes: https://jamf.it/jnuc2022notes
-![image](https://user-images.githubusercontent.com/103599910/208141455-6ef5c3c9-98d2-4d84-9a2f-fe27af8c4d4e.png)
+
+end
