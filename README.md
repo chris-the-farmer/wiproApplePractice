@@ -1,5 +1,8 @@
 # wiproApplePractice
 
+Launchd creation tool
+	https://launched.zerowidth.com/
+
 Temporary Admin
 	Provides temporary admin rights to standard users.  
   https://github.com/jamf/MakeMeAnAdmin
